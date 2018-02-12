@@ -2,8 +2,8 @@
 
 
 """
-IPSS-R MDS score 
-date: avril 2017
+IPSS-R MDS score version 1
+date: fevrier 2018
 author: Christophe Desterke
 christophe.desterke@gmail.com
 python version 3.4
